@@ -3,7 +3,6 @@
 Network plan and website for Südpol IT
 
 ### Website for Südpol IT
-HTML, CSS and JQuery
 
 ![suedpolit](https://user-images.githubusercontent.com/73216174/107384986-c1bdbf80-6af2-11eb-87bb-36f58ac6229a.png)
 
