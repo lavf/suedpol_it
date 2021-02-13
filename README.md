@@ -5,6 +5,9 @@ Network plan and website for Südpol IT
 ### Website for Südpol IT
 
 ![suedpolit](https://user-images.githubusercontent.com/73216174/107384986-c1bdbf80-6af2-11eb-87bb-36f58ac6229a.png)
+![suedpolit1](https://user-images.githubusercontent.com/73216174/107852134-35234200-6e0f-11eb-837d-874d9d1a7ac2.png)
+![suedpolit2](https://user-images.githubusercontent.com/73216174/107852139-39e7f600-6e0f-11eb-9bc8-609e8b27d82c.png)
+
 
 ### Network plan
 
