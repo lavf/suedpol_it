@@ -4,16 +4,17 @@ Network plan and website for Südpol IT
 
 ### Website for Südpol IT
 
-* *with dummy content*
+*Website with dummy content*
 
 ![suedpolit](https://user-images.githubusercontent.com/73216174/107384986-c1bdbf80-6af2-11eb-87bb-36f58ac6229a.png)
 ![suedpolit1](https://user-images.githubusercontent.com/73216174/107852134-35234200-6e0f-11eb-837d-874d9d1a7ac2.png)
 ![suedpolit2](https://user-images.githubusercontent.com/73216174/107852139-39e7f600-6e0f-11eb-9bc8-609e8b27d82c.png)
 
-
 ### Network plan
 
 Software: Cisco Packet Tracer 7.3.1
+
+![cisco_suedpolit](https://user-images.githubusercontent.com/73216174/107852738-b6300880-6e12-11eb-84c9-564eb98f42cc.png)
 
 Description in German:
 
@@ -54,3 +55,5 @@ Hinweise:
 - setze eine Webseite für die Firma auf, die Domain soll passend zum Firmenname aufgebaut sein (Firma-Name.top-level-domain)
 - konfiguriere entsprechende DNS-Einträge bei lokalen DNS-Server
 - der Netzplan soll mit seinen Eigenschaften und den Aufbauentscheidungen vorgestellt werden, ggf. Fragen gilt es zu beantworten
+
+*For educational purposes*
