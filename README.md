@@ -6,6 +6,10 @@ Network plan and website for Südpol IT
 
 *Website with dummy content*
 
+![suedpolit0](https://user-images.githubusercontent.com/73216174/108911362-7691c980-7627-11eb-9853-c58f60ebca34.png)
+![suedpolit1](https://user-images.githubusercontent.com/73216174/108911384-7db8d780-7627-11eb-8f74-ed67296ad6e8.png)
+![suedpolit2](https://user-images.githubusercontent.com/73216174/108911401-81e4f500-7627-11eb-99e0-de84c42d056d.png)
+
 ### Network plan
 
 Software: Cisco Packet Tracer 7.3.1
